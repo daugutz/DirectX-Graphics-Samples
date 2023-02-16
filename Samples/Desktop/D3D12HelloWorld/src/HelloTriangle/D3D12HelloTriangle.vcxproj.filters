@@ -56,4 +56,14 @@
       <Filter>Assets\Shaders</Filter>
     </CustomBuild>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ComputeShaderSampFeedback.dxil">
+      <Filter>Assets\Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="MyFile3.dds">
+      <Filter>Assets\Shaders</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
